@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "669caaf3b72b896379ac4003",
+  "owner": "xnrpndtpw",
+  "repo": "page-0d988786f9699f8d34f500e2",
+  "title": "SSHUB",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0d988786f9699f8d34f500e2",
+      "a": "SSHUB",
+      "b": "2027最新官网",
+      "entity": "SSHUB",
+      "brand": "SSHUB",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "501c57dd3af2f1283b4de2a8e8702b789aed14877fbb38029d8c7ae51a0c57f0",
+      "content": {
+        "primary_entity": "SSHUB",
+        "keyword1": "SSHUB",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选对应客户端，完成订阅导入即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选定合适套餐，按客户端文档完成订阅配置，即可连接使用。",
+          "AI_CLOSING_TITLE": "开启加速体验",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比，提供基础版至团队版三档方案，覆盖百GB到千GB流量与多设备在线需求。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型出发，快速判断适合自己的方案。",
+          "AI_FEATURES_TITLE": "套餐与功能要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备，适合轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，IPLC 专线优化游戏与原生流媒体体验。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，VIP 高带宽节点配合定制路由。",
+          "AI_FEATURE_TITLE_1": "套餐分级",
+          "AI_FEATURE_TITLE_2": "设备适配",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到订阅生效的配置流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "SSHUB 提供基础版、旗舰版与团队版三档加速方案，按流量、设备数量与线路类型区分，适合个人浏览、影音游戏及团队协作场景。订阅前可先确认常用设备与月均流量，再按客户端文档导入配置。",
+          "AI_HERO_SUBTITLE": "多设备加速方案按需选择",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月（年付 ¥150），旗舰版 ¥35/月（年付 ¥350），团队版 ¥85/月（年付 ¥850）；按设备数量与月流量选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月均流量与同时在线设备数，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量、设备数量与线路类型，确认与常用场景匹配。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅信息，完成保存后即可连接。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "SSHUB 加速方案对比",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。家庭使用建议基础版或旗舰版，小型团队可选团队版。",
+          "AI_FAQ_ANSWER_2": "旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的场景；团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。按年付分别仅需 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_4": "选择套餐后，在对应客户端中添加订阅链接即可。Clash 系客户端导入配置，Shadowrocket 与 v2rayNG 粘贴订阅地址更新。",
+          "AI_FAQ_ANSWER_5": "基础版解锁基础流媒体，旗舰版覆盖全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点。",
+          "AI_FAQ_INTRO": "套餐区别、设备数量、流量与订阅配置。",
+          "AI_FAQ_QUESTION_1": "不同套餐支持的设备数量分别是多少？",
+          "AI_FAQ_QUESTION_2": "游戏加速选哪一档套餐更合适？",
+          "AI_FAQ_QUESTION_3": "各套餐每月流量和年付价格如何？",
+          "AI_FAQ_QUESTION_4": "购买后如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_5": "流媒体解锁能力在各套餐间有何差异？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "selomnetwork.com",
+    "host": "selomnetwork.com"
+  },
+  "file_hashes": {
+    "index.html": "60396c29d85d67c6788db4203beeebc388345bb599ed8ac8d4d1cf639773daa3",
+    "sitemap.xml": "f2d3340d779239ba5286e2ad091bc4cd1fe0253629f4579df205873a22b91c9d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4bfef04fc341ce036db2258bd4c47ff38c23c26c366aeb5e0d508928005077e5",
+    "robots.txt": "5f8f3a584dadff6fc83196601cca60728b5934c4626fc1968b66d5c48087b916",
+    "b225faff6d2df3cc644f14a0f916b447.txt": "5b9c796ae6cd30b20354a2225186910f7d8f17bb11b0188d5c8cb6e783016fc0"
+  },
+  "revision": "ab0e6d09279b9762b9ec3553a7d6c9acfb67a413412b132f5d9a0004c7beb2f9"
+}
